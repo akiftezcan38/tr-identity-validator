@@ -17,7 +17,7 @@ PHP 8.4+ için geliştirilmiş, basit ve hızlı bir doğrulama kütüphanesidir
 ## Kurulum
 
 ```bash
-composer require yourvendor/tr-identity-validator
+composer require akiftezcan38/tr-identity-validator
 ```
 
 ## Kullanım
