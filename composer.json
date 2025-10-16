@@ -1,13 +1,13 @@
 {
-    "name": "yourvendor/tr-identity-validator",
+    "name": "akiftezcan38/tr-identity-validator",
     "description": "Turkish Identity Number (TCKN) and Tax Number (VKN) validator package",
     "type": "library",
     "keywords": ["tckn", "vkn", "turkish", "identity", "validation", "turkey"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Your Name",
-            "email": "your.email@example.com"
+            "name": "Mehmet Akif TEZCAN",
+            "email": "akiftezcan38@gmail.com"
         }
     ],
     "require": {
